@@ -1,0 +1,7 @@
+C:\Users\oviya\Oviya_WebApp\bin\Release\net8.0\publish\Oviya_WebApp.exe
+C:\Users\oviya\Oviya_WebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\oviya\Oviya_WebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\oviya\Oviya_WebApp\bin\Release\net8.0\publish\Oviya_WebApp.dll
+C:\Users\oviya\Oviya_WebApp\bin\Release\net8.0\publish\Oviya_WebApp.deps.json
+C:\Users\oviya\Oviya_WebApp\bin\Release\net8.0\publish\Oviya_WebApp.runtimeconfig.json
+C:\Users\oviya\Oviya_WebApp\bin\Release\net8.0\publish\Oviya_WebApp.pdb

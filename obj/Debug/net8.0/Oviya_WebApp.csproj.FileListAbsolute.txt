@@ -1,0 +1,2 @@
+C:\Users\oviya\Oviya_WebApp\bin\Debug\net8.0\Oviya_WebApp.exe
+C:\Users\oviya\Oviya_WebApp\bin\Debug\net8.0\Oviya_WebApp.dll

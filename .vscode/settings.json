@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7347c7dc-b9bd-42d5-9126-f9d50f0038d8/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/Oviya-WebApp-500237599"
+}

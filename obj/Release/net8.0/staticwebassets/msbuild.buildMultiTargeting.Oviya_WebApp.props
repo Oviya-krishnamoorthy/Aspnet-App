@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Oviya_WebApp.props" />
+</Project>
